@@ -1,9 +1,5 @@
-## Hi there 👋
-
-
-
-
 # HYPAD #
+
 Hypercomplex-based Automatic Differentiation (HYPAD) is a technique that uses Hypercomplex algebras like complex numbers ($i^2=-1$), dual numbers $(\epsilon^2=0)$ to compute derivatives in computational applications. 
 In contrast to general automatic differentiation approaches, where a source code is interpreted to provide a new code that computes derivatives or a computational graph is interpreted to produce a code that computes derivatives, HYPAD
 concentrates all techniquesuses arithmetic operations 
